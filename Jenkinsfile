@@ -39,7 +39,7 @@ pipeline {
         deleteDir()
         // Clone the repository
         git branch: 'main',
-            url: 'https://github.com/sunnysavita10/automated-research-report-generation.git'
+            url: 'https://github.com/SiddheshGP/report-generation.git'
     }
 }
         
